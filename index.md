@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 	<head>
 		<title>Ayush Kumar's Repoistory</title>
